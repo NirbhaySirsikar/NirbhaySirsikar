@@ -10,6 +10,8 @@ Thank You for taking the time to view my GitHub Profile 😄. I am a Flutter dev
 * ✉️  You can contact me at [nirbhaysirsikar123@gmail.com](mailto:nirbhaysirsikar123@gmail.com)
 * 🧠  I'm learning Flutter, Firebase and UI/UX
 * 🤝  I'm open to collaborating on Flutter projects
+* 😄  Pronouns: he/him
+* ⚡  Fun fact: I love creativity and puzzles!
 
 ### Skills
 
