@@ -7,7 +7,7 @@ Thank You for taking the time to view my GitHub Profile 😄. I am a Flutter dev
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nirbhaysirsikar123@gmail.com](mailto:nirbhaysirsikar123@gmail.com)
 * 🧠  I'm learning React, Scalable Backend systems and how to talk to a Rubber Ducky 🦆 
-* 🤝  I'm open to collaborating on Flutter and TypeScript Projects
+* 🤝  I'm open to collaborating on Flutter and Full Stack Web Projects
 * 😄  Pronouns: he/him
 * ⚡  Fun fact: I love creative work and problem solving!
 
